@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Water
+  - Enemy
+  - NoPlayer
+  - PowerUp
+  - Brick
+  - Grabable
+  - Solid
+  - Shell
+  - Toss
+  - Death
+  - Hurt
+  - AvoidableHurt
+  - Bullet
+  - Lava
+  - RotatingSurface
+  - Zone
+  - 3
+  - OC
+  - Warp7
+  - 0
+  - Warp1
+  - Warp5
+  - Warp6
+  - Warp3
+  - 2
+  - Warp9
+  - Warp2
+  - Warp4
+  - Warp8
+  - 1
+  - Destroyable
+  - 1
+  - Slope
+  - Boss
+  - BossHit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Solid
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - RenderApart
+  - PlayerIgnore
+  - Grabable
+  - Warp
+  - Direction
+  - SubPlayer
+  - INstaDeath
+  - EnemySolid
+  - Brick
+  - AirBlock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BACKGROUNDN
+    uniqueID: 1483340997
+    locked: 0
+  - name: BG
+    uniqueID: 3925474939
+    locked: 0
+  - name: Behind
+    uniqueID: 219287955
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 2172663645
+    locked: 0
+  - name: ExtraIIum
+    uniqueID: 3391635223
+    locked: 0
+  - name: LevelFront
+    uniqueID: 2008170803
+    locked: 0
+  - name: Pipe
+    uniqueID: 602924175
+    locked: 0
+  - name: Foreground
+    uniqueID: 3199771273
+    locked: 0
+  - name: Enemies
+    uniqueID: 3825684439
+    locked: 0
+  - name: TOP
+    uniqueID: 481058467
+    locked: 0
+  - name: UI
+    uniqueID: 1763114527
+    locked: 0
+  - name: FADE
+    uniqueID: 1128125795
+    locked: 0
+  - name: TOPIM
+    uniqueID: 1727695829
+    locked: 0

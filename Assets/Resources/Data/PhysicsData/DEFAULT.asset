@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cccbd0bcf2b9314d8717b8825167164, type: 3}
+  m_Name: DEFAULT
+  m_EditorClassIdentifier: 
+  fallMultiplier: 2
+  lowJumpMultiplier: 3
+  maxSpeedW: 70
+  maxSpeedR: 160
+  maxSpeedSC: 200
+  acc: 550
+  dec: 8
+  skidSpeed: 325
+  jumpForce: 250
+  gravity: 1
+  rayDistance: 12
+  animFactor: 0.01
+  jumpMomentumFactor: 1
+  momentumFactor: 1
+  coyoteTime: 0.1
+  jumpForceStomp: 200
+  jumpForceStumpP: 300
+  maxFallSpeed: -280
+  maxJumpSpeed: 280
+  spinJumpForce: 200

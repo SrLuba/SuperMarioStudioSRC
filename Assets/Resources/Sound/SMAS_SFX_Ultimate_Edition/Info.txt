@@ -1,0 +1,10 @@
+Most of the sound effects were directly converted from this collection
+made by LadiesMan217: https://www.smwcentral.net/?p=section&a=details&id=18816
+
+All sounds have been converted to WAV/OGG using Sinc Function ~ 32khz
+and manually editted one-by-one, a few of them were buggy or missing
+(as mentioned in the link above) and I had to record them from emulator using
+similar settings to keep it consistent. Sound effects from the Advance
+series are also included.
+
+- Nin★

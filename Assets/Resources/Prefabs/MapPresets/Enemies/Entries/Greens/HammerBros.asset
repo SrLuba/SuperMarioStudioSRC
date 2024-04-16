@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a34fb5a3ab9ac46abe248997aa0300, type: 3}
+  m_Name: HammerBros
+  m_EditorClassIdentifier: 
+  type:
+  - B_GOOMBA
+  - B_HAMMER
+  - V_NOFLIP
+  baseSpeed: 32
+  baseAnimSpeed: 1
+  flags: []
+  PLandAC: {fileID: 8300000, guid: 2834e8e89c4c3714a8b45c4be7498522, type: 3}
+  DieAC: {fileID: 8300000, guid: 2834e8e89c4c3714a8b45c4be7498522, type: 3}
+  ChangeSideAC: {fileID: 8300000, guid: 394c75d7c13a89440b02e6a3f533136c, type: 3}
+  DestroyAC: {fileID: 8300000, guid: 8552da24b65b1444eb47f6fdeef2f3f4, type: 3}
+  hits: 1
+  spawnDeath: {fileID: 0}
+  ACNormal: {fileID: 9100000, guid: 8778ced0dc770d1429df95ab31bd8bd2, type: 2}
+  ACRed: {fileID: 9100000, guid: 8778ced0dc770d1429df95ab31bd8bd2, type: 2}
+  ACRedWings: {fileID: 9100000, guid: 8778ced0dc770d1429df95ab31bd8bd2, type: 2}
+  ACWings: {fileID: 9100000, guid: 8778ced0dc770d1429df95ab31bd8bd2, type: 2}
+  bullet: {fileID: 1667469415084308822, guid: fd429ba5908a40d4f8ff4f4874b9df22, type: 3}
+  bulletTime: 1
+  bulletCount: 1

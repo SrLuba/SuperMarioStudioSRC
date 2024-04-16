@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 394b3286ae4ab344583b3902306a4fe8, type: 3}
+  m_Name: BackgroundForest
+  m_EditorClassIdentifier: 
+  targets:
+  - setupAuto: 0
+    parallaxForceFactorX: 0
+    parallaxForceFactorY: 0
+    origin: {x: 0, y: 0}
+    targets:
+    - sprite: {fileID: 373018352, guid: d30720349af89124dbe7d4d9e5d68054, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 0
+      ifPrefab: {fileID: 0}
+      parallaxForce: {x: 0.2, y: 0.2}
+      startPos: {x: 9216, y: 0}
+      height: 384
+      tileRepeatCount: 4
+      sepFactor: 4
+      layerID: 1
+      layer: BG
+      VX: 0
+      VY: 0
+      length: 1024
+      targetPos: {x: 7608.842, y: 3456.7683, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 645443532, guid: d30720349af89124dbe7d4d9e5d68054, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 0
+      ifPrefab: {fileID: 0}
+      parallaxForce: {x: 0.2, y: 0.2}
+      startPos: {x: 9216, y: 384}
+      height: 384
+      tileRepeatCount: 4
+      sepFactor: 4
+      layerID: -1
+      layer: BG
+      VX: 0
+      VY: 0
+      length: 1024
+      targetPos: {x: 7608.842, y: 3840.7683, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: -556637595, guid: d30720349af89124dbe7d4d9e5d68054, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 0
+      ifPrefab: {fileID: 0}
+      parallaxForce: {x: 0.2, y: 0.2}
+      startPos: {x: 9216, y: -384}
+      height: 384
+      tileRepeatCount: 4
+      sepFactor: 4
+      layerID: -1
+      layer: BG
+      VX: 0
+      VY: 0
+      length: 1024
+      targetPos: {x: 7608.842, y: 3072.7683, z: 0}
+      target: {fileID: 0}

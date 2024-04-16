@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 386b99151b3a4d34ebb72e7236e5714a, type: 3}
+  m_Name: DefaultStar
+  m_EditorClassIdentifier: 
+  id: 0
+  tier: 3
+  flags:
+  - BIG
+  - STAR
+  prefab: {fileID: 5761371884040608756, guid: f04022e25b4fbf04883c26705131f94f, type: 3}
+  sprite: {fileID: -318240480, guid: 06ba6ac302a355d4da98ae3be7635e56, type: 3}
+  grabSound: {fileID: 8300000, guid: bb5d21d7a2bf0024a9f7835931a9bf67, type: 3}
+  sprites: []
+  move: 1
+  moveSpeed: 72
+  star: 1
+  starTime: 10
+  tossGB: {fileID: 0}
+  tossCount: 0

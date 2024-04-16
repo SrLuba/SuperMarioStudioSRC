@@ -1,0 +1,3226 @@
+fileFormatVersion: 2
+guid: ebaec1259e57782438a77ae31e019f7c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729174ecafbe59f4ab8884ff7564bc91
+      internalID: -1762618468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dfe574ddba5d34daed5f23ff062b18
+      internalID: -1348370304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e228ee63b4290ff4c8ae36ab20cc0237
+      internalID: 100746867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a841461c2fa79e1478a139386b99c14e
+      internalID: -1081489283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd023032cd01a418c9a0cce97b26d2
+      internalID: 2058588957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f92fe1162da40e4d8d845bd16683ad5
+      internalID: 35831696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7716972c9ddfc44dabb4015e18207f6
+      internalID: -905302744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0153c0bd55e9a1544bc162d1a6cc26f8
+      internalID: 819728539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee84d9614aa51b45879a70c27c201e7
+      internalID: 1992585282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0247ea38706568458c4f842735693a7
+      internalID: -574360982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca50652e418844c9f238f953c371dd
+      internalID: -1670843553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4a66a06bd0e584896b80aab0ee3936
+      internalID: 467450605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702184f914f8ccc4da5a29216f54de85
+      internalID: 330328325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d111457a735594d81c8ae51a7a6c36
+      internalID: -1874593385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1289dde2c64a0849ae826e75168cdda
+      internalID: 1249028913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35a8807bed719546a8c8d13573ed682
+      internalID: -1306473421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99be170e6b416a4084bc891b84a6cb2
+      internalID: 1515651801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9274e1ba421184bab40046bed65689
+      internalID: -2014842304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441702f2b5b27f94aabeffc68964d5e9
+      internalID: 843875757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd9372941b96a94ab4d58703bc84e93
+      internalID: 1679330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b931e9e86a9515d4b91acb3b2fa2124a
+      internalID: 511979860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa7dca5c9d2754b81fd3c66591e32a
+      internalID: 1859068221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3ac859c1d510a4b93236b1a9b7a15a
+      internalID: 1027301487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4fbcb150511d649aabf764f7484954
+      internalID: 1303167681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2a1924fbe7c394bbf9d9657dc80e84
+      internalID: 1768138722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fa92cdca7329a4baab6377bbeab8af
+      internalID: -307468606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bda2c2f59436a41bb81987fc61e4e6
+      internalID: 1381715331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e6878c20544c49994ab5d57b1ddd8
+      internalID: -1670085642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386a6b234cc36d64ea434a05662ddfc0
+      internalID: 993346931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25093612b6721047b5aeb75fc9b798a
+      internalID: 1323493689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b23da2d69ebadc4985568464f4c8be9
+      internalID: 380660857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80b5cfc8210b5d43b3cd3a5209c7fbd
+      internalID: 424206131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1158232259fcd34e989a8ab772703a1
+      internalID: 281559013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33c8d35545b9bb45a06aa1b03ba9c57
+      internalID: 517173386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aeff98a14fefd488ce5beac4baabee
+      internalID: -1948937713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ff18decb79ef0419f0e59c173da396
+      internalID: -182161122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3cbd4639cd60a4491f13ea7011cdaa
+      internalID: -1418588885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477a97131ec15464498e0db7213d2abb
+      internalID: -1958118461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd53e0fb045c4d42925100a358c78c8
+      internalID: 1932312365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab5ffb00f84743468b178f4d7ebfd17
+      internalID: 962821825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420442b471da9554d824c89a0bee445f
+      internalID: 769747538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e250283023e0fcf42bc4dc2ffba6ae5f
+      internalID: -986085167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45705b7c4de3fe4499068663a3af9707
+      internalID: -1172930673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13335ebe781fae45bcce0ff7481ec1a
+      internalID: 1134762004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf9f74874de633478bc84fcfe659e96
+      internalID: 163942215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bdfe0c64a04794caffdcab43383cfe
+      internalID: 1981347115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970bdf058fdec8a458b8b991d82c9fb7
+      internalID: 1938945537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431941c0ba780f04b88fe1fbca7b7dbf
+      internalID: 1491317892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b118f7dcf6b8f4c9ae55c547d21d72
+      internalID: -993326987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ddf09375762b439d7d094cfe9573a
+      internalID: -617097758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc47ce2a8e41fd4598e2791a0429313
+      internalID: 657955087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae21c736748f904587912d2d850feba
+      internalID: -949921701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553cc9dfbe69df44f91b382e6d3cf6da
+      internalID: 1532522207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bbe91d25f4353419f9e4896d903784
+      internalID: 1995246469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a89c43013e21e42947a8e827dba047
+      internalID: -1363235536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d901840e817714ea920045a904b188
+      internalID: 2059561679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a73f180a91696444ae9aa665b90335a
+      internalID: 145251329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351e93cdea1f75b49a46cb79ae9f2666
+      internalID: -1148691306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89283ce07f82db42bc17e9abe87fe37
+      internalID: 2059278758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8072c1e5bf1975245b59784ecc13adcd
+      internalID: -174531690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521eaffa0032f11458458a84d97a6d7c
+      internalID: -1990153899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f499fcaaf24789d4396d453590854793
+      internalID: -973679638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d45331af8ed8c4b9a6233c9cc902c4
+      internalID: -2006990712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4786ec7093750438d49f620fd95650
+      internalID: 597661534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4c69874cac7d498b4bb010e9dfb8e
+      internalID: 516659158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fad35280dc929844bce50959ff6f2da
+      internalID: -1963408904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0883d6dd5f6a42a733a972e61609b
+      internalID: -1345676449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7a5107640299342918c7d9e2e4f7ae
+      internalID: 742157905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc47f33aeac7904b92ba4807cf72f33
+      internalID: 345197656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa07e2aa059024dbd567479fe8c83d
+      internalID: 1986686773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1168d0c34090cd4f896f2b6330a6e8e
+      internalID: 2054746784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8c36218c3461488babc512612aed0
+      internalID: 1899137635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2482b2283b1c1034fb40a4f86dbb37af
+      internalID: -323606220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec74b56d61895674bac92b0a47ee22b0
+      internalID: 921653307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a8c5f8e324c5d4faaf1a3d14540f35
+      internalID: -2096919949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc163ff01ea8ac4a9df5930937a3d24
+      internalID: 155615804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa17abc4c371ff42b0bf21bf7295a1a
+      internalID: 1809468137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e088932aa2a60489e02d542eb07b38
+      internalID: -302324423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4468724e4bae73e4682371bebe46440f
+      internalID: -1155360667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d9357b7e7f0a489e01442dc39fc34
+      internalID: 896532014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4f4b0cba6425748bc0401d1339cb4c
+      internalID: -118226173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4818c8240230d794f916cc5cfa8dda5d
+      internalID: 2057969520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c334354c7857649949e94a522abd43
+      internalID: 252298901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8c3c752397ba74bae6191636bd919e
+      internalID: -887182093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dbb25059245ce4a8f5821e10b770bd
+      internalID: -1599442280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c10ea75cad48e84bb03f73469c690cb
+      internalID: 1193620168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb342be34986a9e45917c1f15f141872
+      internalID: -1107393818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c0eabce4fedc248af2ff0b2b97dee5
+      internalID: 444325763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47332e1d1dcb66d449b42a2eab46fd09
+      internalID: -916604325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7e8d8dde1303045ba900365fc8aa68
+      internalID: 1898445332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba408b4d076f3c24b8c49a57f9cae3b0
+      internalID: -734001049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a243d1b9466404b9a76259eb1df0a0
+      internalID: -1891972481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53a7cc93dd371e4484b4f4e02055055
+      internalID: 1152112661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daffb8ab20a9c94f93a7632c0147e26
+      internalID: -1929579674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd437c86e649334a89ca6e6afceec1b
+      internalID: 584841587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c98e9d0bb0f7842aec8c272ee1ebd9
+      internalID: -1196935617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abe588e501b26f49bb9acb0daad70ac
+      internalID: 1143480701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77f23f845fb6f24c8d720a7a31222f9
+      internalID: 2036872283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28904d451ed1764395979a2c87045d6
+      internalID: -1759164300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70273c5d9856441a82f914923942c9
+      internalID: -1487030741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171db3d75b3ff1439e5038e17bc2686
+      internalID: 1303188621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0e87f448851644854dacd72db33b4
+      internalID: -2104347956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce1caa833c47d439b67363b475384d
+      internalID: -1785832997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3edc5cc6c73984aa9b336cd6ad5b5d
+      internalID: -712003930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a3ecbe982e2b40b8277efb6e2abec
+      internalID: -400358580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0b68efe8e5ec6409b65c8af6ec3c53
+      internalID: 1478530639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7df492e110618e40838a9646fc04c84
+      internalID: 1684629672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e28cb73884f944a3e938b0a7f575b
+      internalID: 820146741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc63079d06030904fb51a04f9e59634c
+      internalID: 853630513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d241523e2071e44eb658fabde402481
+      internalID: -1980437439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9849b7eb4c44a44428edfc358ddffb1f
+      internalID: -1387899221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336727588f080c4d9a49eef934630f0
+      internalID: 177431414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7792aaaf0c93885468d4250de1db7174
+      internalID: 1367504299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b15f17610230b458855e4c87933dbb
+      internalID: -436553030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7066e77461ba5f49b42b5de97c828dc
+      internalID: -2132629353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812311d84cd5e444eabb7c8fd4c66c50
+      internalID: -860624201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d990e331c7698ff4a8707cb2cb672474
+      internalID: -757161741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24623c9f1086b4b8b54cd76438f492
+      internalID: 393645561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1fecddb58201040b6b355907f2b5b3
+      internalID: -92016882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae60ffdf2a796041bccb93f3f1c4ac2
+      internalID: 773950533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c53abdc7e218e4591250d131e653c7
+      internalID: -1006817124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 168
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b941a981e5d5b4eb8554aa58c48593
+      internalID: -2072022198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 168
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18144f9934bcd3b4199a8f8f5a2f8704
+      internalID: 1155020830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f386f4c43501ff648a318bca65add9be
+      internalID: -272550018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e94ebd4dc46dcb41a199c79849a6490
+      internalID: -166541782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e866f9d22dc494092e4ccd882a748f
+      internalID: -415256774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 144
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886624de54e87b44bb0edbf5d03ad8f4
+      internalID: -115404217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 144
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78deada768962dd4cbd8a0d07d13e8fd
+      internalID: 1697863190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aec8c2a4234b8c4cad47a1eab53f992
+      internalID: 1095032905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a2bc5110a613e49a9b0a949816b3b1
+      internalID: 789713474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfff218ac9e3a3a4295b10e91e963794
+      internalID: -2067830149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03314c29eb1bf1e4ea5b457cb5108893
+      internalID: 2054480291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld
+        Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 184
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24b1c17d96ad294fb67aa45af131e29
+      internalID: 1545195494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8456e9509d496c648bd2dae36f49442c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_0: -1762618468
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_1: -1348370304
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_10: -1670843553
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_100: 1303188621
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_101: -2104347956
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_102: -1785832997
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_103: -712003930
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_104: -400358580
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_105: 1478530639
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_106: 1684629672
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_107: 820146741
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_108: 853630513
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_109: -1980437439
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_11: 467450605
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_110: -1387899221
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_111: 177431414
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_112: 1367504299
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_113: -436553030
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_114: -2132629353
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_115: -860624201
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_116: -757161741
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_117: 393645561
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_118: -92016882
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_119: 773950533
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_12: 330328325
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_120: -1006817124
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_121: -2072022198
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_122: 1155020830
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_123: -272550018
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_124: -166541782
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_125: -415256774
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_126: -115404217
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_127: 1697863190
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_128: 1095032905
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_129: 789713474
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_13: -1874593385
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_130: -2067830149
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_131: 2054480291
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_132: 1545195494
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_133: -1656230115
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_14: 1249028913
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_15: -1306473421
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_16: 1515651801
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_17: -2014842304
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_18: 843875757
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_19: 1679330
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_2: 100746867
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_20: 511979860
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_21: 1859068221
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_22: 1027301487
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_23: 1303167681
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_24: 1768138722
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_25: -307468606
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_26: 1381715331
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_27: -1670085642
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_28: 993346931
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_29: 1323493689
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_3: -1081489283
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_30: 380660857
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_31: 424206131
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_32: 281559013
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_33: 517173386
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_34: -1948937713
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_35: -182161122
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_36: -1418588885
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_37: -1958118461
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_38: 1932312365
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_39: 962821825
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_4: 2058588957
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_40: 769747538
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_41: -986085167
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_42: -1172930673
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_43: 1134762004
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_44: 163942215
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_45: 1981347115
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_46: 1938945537
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_47: 1491317892
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_48: -993326987
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_49: -617097758
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_5: 35831696
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_50: 657955087
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_51: -949921701
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_52: 1532522207
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_53: 1995246469
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_54: -1363235536
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_55: 2059561679
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_56: 145251329
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_57: -1148691306
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_58: 2059278758
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_59: -174531690
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_6: -905302744
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_60: -1990153899
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_61: -973679638
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_62: -2006990712
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_63: 597661534
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_64: 516659158
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_65: -1963408904
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_66: -1345676449
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_67: 742157905
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_68: 345197656
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_69: 1986686773
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_7: 819728539
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_70: 2054746784
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_71: 1899137635
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_72: -323606220
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_73: 921653307
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_74: -2096919949
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_75: 155615804
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_76: 1809468137
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_77: -302324423
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_78: -1155360667
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_79: 896532014
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_8: 1992585282
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_80: -118226173
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_81: 2057969520
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_82: 252298901
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_83: -887182093
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_84: -1599442280
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_85: 1193620168
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_86: -1107393818
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_87: 444325763
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_88: -916604325
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_89: 1898445332
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_9: -574360982
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_90: -734001049
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_91: -1891972481
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_92: 1152112661
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_93: -1929579674
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_94: 584841587
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_95: -1196935617
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_96: 1143480701
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_97: 2036872283
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_98: -1759164300
+      SNES - Super Mario All-Stars Super Mario Bros 3 - Animated Overworld Tiles_99: -1487030741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

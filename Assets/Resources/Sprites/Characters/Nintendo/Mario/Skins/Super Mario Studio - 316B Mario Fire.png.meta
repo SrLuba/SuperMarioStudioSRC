@@ -1,0 +1,870 @@
+fileFormatVersion: 2
+guid: e0b47b170988520469c1cbe80b20c1be
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 94
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3be82289a071154fa3075a724b5fb2a
+      internalID: 1747469630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 94
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12195db6b7301fa42bf60767d5cb6508
+      internalID: -2095064927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 94
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cbee537b777a941bb0d60e97b665d8
+      internalID: 669101764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 94
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65faea3f7eed1b4daab9401b62650e6
+      internalID: -1384153809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 94
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01924ffbf9eb1d04d90e3e1edfc11a52
+      internalID: -605055109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 94
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6532201292b431e45ab56f258ec64f6b
+      internalID: -804879426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 94
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fcfcaadec98f34583b8b3996212e67
+      internalID: -392056312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 94
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42969a047fd076941aa7f95351ccbfca
+      internalID: 647267771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 94
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21e2b398f2e0f4da46246ca81cc9cb
+      internalID: 1698916965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 93
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7103256f5ab904daec2fea949cb6d2
+      internalID: -1956185945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 94
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbb8c3b5c1d7be42ad9013d48219d89
+      internalID: -1283903374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 94
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7f96b8ecd55d745963e8b561865e56
+      internalID: 2096615522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 94
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048b79de975d81f449eacbdd572527ca
+      internalID: 1539368904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 94
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303313897f416c9429bc805b0988aefe
+      internalID: -218422006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_14
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 95
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2dbffc2e0b4514b8356ce982662ae6
+      internalID: 1870493039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 94
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ba992ce6d98e844ab7b64b988250e9
+      internalID: -1992655993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 94
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4dc0ba8766d064d822e72e6cd800f4
+      internalID: 357216115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 94
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d1831462dcf6499206bc2c0914a6a
+      internalID: -690527987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 94
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca052d82f539f48ab676d345d0a2ab
+      internalID: -332947390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 94
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0508d6db6f491044b8e3e7c8ff9aa3f
+      internalID: 1074787537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 94
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac015afc87aec49b9e118b7d1e0e79
+      internalID: 359058525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 94
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539efc12979a87a4997a421392a9c710
+      internalID: -594313260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_22
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 94
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667d7fb01e699624fb0f5439eedb9d3a
+      internalID: -1943319966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a96c55138cecd645a37765d629befc6
+      internalID: -2118936806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 60
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03221ac849f7a6044b17fbc6e8a79005
+      internalID: 471970862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 60
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4043136d2f75d58449d2c5a4b3ffa2b8
+      internalID: 1167156457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 62
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b69c21f79e604eaf6ac5294f8e5d1
+      internalID: 455317807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 62
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbbc735505a62748a7b86bb1b08d964
+      internalID: -920339701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 60
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4251f5769eb95c74b8096032ca48b329
+      internalID: -913778618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 60
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a64b85246ff2914a8c5a64be30452c4
+      internalID: -1763741967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 60
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e104b04814b8ee848b63b118ebd34c84
+      internalID: 623673593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Mario Studio - 316B Mario Fire_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 60
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a0d17211139ab4ba73abe3c15ad2ea
+      internalID: 2006088742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Super Mario Studio - 316B Mario Fire_0: 1747469630
+      Super Mario Studio - 316B Mario Fire_1: -2095064927
+      Super Mario Studio - 316B Mario Fire_10: -1283903374
+      Super Mario Studio - 316B Mario Fire_11: 2096615522
+      Super Mario Studio - 316B Mario Fire_12: 1539368904
+      Super Mario Studio - 316B Mario Fire_13: -218422006
+      Super Mario Studio - 316B Mario Fire_14: 1870493039
+      Super Mario Studio - 316B Mario Fire_15: -1992655993
+      Super Mario Studio - 316B Mario Fire_16: 357216115
+      Super Mario Studio - 316B Mario Fire_17: -690527987
+      Super Mario Studio - 316B Mario Fire_18: -332947390
+      Super Mario Studio - 316B Mario Fire_19: 1074787537
+      Super Mario Studio - 316B Mario Fire_2: 669101764
+      Super Mario Studio - 316B Mario Fire_20: 359058525
+      Super Mario Studio - 316B Mario Fire_21: -594313260
+      Super Mario Studio - 316B Mario Fire_22: -1943319966
+      Super Mario Studio - 316B Mario Fire_23: -2118936806
+      Super Mario Studio - 316B Mario Fire_24: 471970862
+      Super Mario Studio - 316B Mario Fire_25: 1167156457
+      Super Mario Studio - 316B Mario Fire_26: 455317807
+      Super Mario Studio - 316B Mario Fire_27: -920339701
+      Super Mario Studio - 316B Mario Fire_28: -913778618
+      Super Mario Studio - 316B Mario Fire_29: -1763741967
+      Super Mario Studio - 316B Mario Fire_3: -1384153809
+      Super Mario Studio - 316B Mario Fire_30: 623673593
+      Super Mario Studio - 316B Mario Fire_31: 2006088742
+      Super Mario Studio - 316B Mario Fire_4: -605055109
+      Super Mario Studio - 316B Mario Fire_5: -804879426
+      Super Mario Studio - 316B Mario Fire_6: -392056312
+      Super Mario Studio - 316B Mario Fire_7: 647267771
+      Super Mario Studio - 316B Mario Fire_8: 1698916965
+      Super Mario Studio - 316B Mario Fire_9: -1956185945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

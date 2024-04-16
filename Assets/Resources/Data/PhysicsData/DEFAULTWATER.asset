@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cccbd0bcf2b9314d8717b8825167164, type: 3}
+  m_Name: DEFAULTWATER
+  m_EditorClassIdentifier: 
+  fallMultiplier: 1
+  lowJumpMultiplier: 1
+  maxSpeedW: 50
+  maxSpeedR: 100
+  maxSpeedSC: 200
+  acc: 255
+  dec: 5
+  skidSpeed: 22
+  jumpForce: 250
+  gravity: 0.4
+  rayDistance: 9
+  animFactor: 0.001
+  jumpMomentumFactor: 0.3
+  momentumFactor: 0.8
+  coyoteTime: 5
+  jumpForceStomp: 200
+  jumpForceStumpP: 300
+  maxFallSpeed: -100
+  maxJumpSpeed: 300
+  spinJumpForce: 100

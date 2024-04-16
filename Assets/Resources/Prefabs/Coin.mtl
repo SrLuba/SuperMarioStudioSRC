@@ -1,0 +1,29 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd C:\Users\lauta\Documents\ElSMSReal\Assets\Sprites\SNES - Super Mario All-Stars Super Mario Bros 3 - Stage Tilesets & Objects.png
+
+newmtl None_SNES_-_Super_Mario_All-Stars_Super_Mario_Bros_3_-_Stage_Til.000
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd C:\Users\lauta\Documents\ElSMSReal\Assets\Sprites\SNES - Super Mario All-Stars Super Mario Bros 3 - Stage Tilesets & Objects.png
+
+newmtl None_SNES_-_Super_Mario_All-Stars_Super_Mario_Bros_3_-_Stage_Tileset
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd C:\Users\lauta\Documents\ElSMSReal\Assets\Sprites\SNES - Super Mario All-Stars Super Mario Bros 3 - Stage Tilesets & Objects.png

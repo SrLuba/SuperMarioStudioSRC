@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 386b99151b3a4d34ebb72e7236e5714a, type: 3}
+  m_Name: Flower
+  m_EditorClassIdentifier: 
+  id: 2
+  tier: 2
+  flags:
+  - BIG
+  - BULLET
+  prefab: {fileID: 5761371884040608756, guid: 36bb10addae405b428e6af42e0877ee8, type: 3}
+  sprite: {fileID: -501372034, guid: 06ba6ac302a355d4da98ae3be7635e56, type: 3}
+  grabSound: {fileID: 8300000, guid: bb5d21d7a2bf0024a9f7835931a9bf67, type: 3}
+  sprites:
+  - identifier: Idle
+    sprite:
+    - {fileID: 21300070, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: Walk
+    sprite:
+    - {fileID: 21300070, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300072, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300074, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: Jump
+    sprite:
+    - {fileID: 21300076, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: Fall
+    sprite:
+    - {fileID: 21300078, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: WalkSC
+    sprite:
+    - {fileID: 21300086, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300088, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300090, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: JumpSC
+    sprite:
+    - {fileID: 21300092, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: FallSC
+    sprite:
+    - {fileID: 21300090, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: Burst
+    sprite:
+    - {fileID: -701247823, guid: 62567bbf95898e14fa284fdb97dc447d, type: 3}
+  - identifier: IdleGrab
+    sprite:
+    - {fileID: 21300080, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: WalkGrab
+    sprite:
+    - {fileID: 21300080, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300082, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300084, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: JumpGrab
+    sprite:
+    - {fileID: 21300084, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300084, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: FallGrab
+    sprite:
+    - {fileID: 21300084, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300084, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: FallGrabSC
+    sprite:
+    - {fileID: 21300084, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: JumpGrabSC
+    sprite:
+    - {fileID: 21300084, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: WalkGrabSC
+    sprite:
+    - {fileID: 21300080, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300082, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300084, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: Crouch
+    sprite:
+    - {fileID: 21300040, guid: 9c507c90f21ae3244945a12bc72ec15d, type: 3}
+  - identifier: Skid
+    sprite:
+    - {fileID: 21300004, guid: 9c507c90f21ae3244945a12bc72ec15d, type: 3}
+  - identifier: Spin
+    sprite:
+    - {fileID: 21300040, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+    - {fileID: 21300028, guid: 9c507c90f21ae3244945a12bc72ec15d, type: 3}
+    - {fileID: 21300038, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+    - {fileID: 21300028, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+  - identifier: Slide
+    sprite:
+    - {fileID: 21300016, guid: 9c507c90f21ae3244945a12bc72ec15d, type: 3}
+  - identifier: Kick
+    sprite:
+    - {fileID: 21300052, guid: 9c507c90f21ae3244945a12bc72ec15d, type: 3}
+  - identifier: GroundPound
+    sprite:
+    - {fileID: 21300016, guid: 9c507c90f21ae3244945a12bc72ec15d, type: 3}
+  - identifier: SkidGrab
+    sprite:
+    - {fileID: 21300040, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+    - {fileID: 21300008, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+    - {fileID: 21300038, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+  - identifier: Hit
+    sprite:
+    - {fileID: 21300040, guid: 9c507c90f21ae3244945a12bc72ec15d, type: 3}
+    - {fileID: 21300036, guid: 6b973c1f35e4beb43a744ecbaa39ef8c, type: 3}
+    - {fileID: 21300002, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+  - identifier: WarpDown
+    sprite:
+    - {fileID: 21300008, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+  - identifier: Goto
+    sprite:
+    - {fileID: -913778618, guid: e0b47b170988520469c1cbe80b20c1be, type: 3}
+  - identifier: Toss
+    sprite:
+    - {fileID: 21300000, guid: 6b973c1f35e4beb43a744ecbaa39ef8c, type: 3}
+    - {fileID: 21300002, guid: 6b973c1f35e4beb43a744ecbaa39ef8c, type: 3}
+    - {fileID: 21300002, guid: 6b973c1f35e4beb43a744ecbaa39ef8c, type: 3}
+  - identifier: WarpUp
+    sprite:
+    - {fileID: 21300028, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+  - identifier: WarpRight
+    sprite:
+    - {fileID: 21300040, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+  - identifier: WarpLeft
+    sprite:
+    - {fileID: 21300038, guid: 9fef41d36e3185c4984076f6db9abd1e, type: 3}
+  - identifier: IdleSwim
+    sprite:
+    - {fileID: 21300094, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300094, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300094, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  - identifier: Swim
+    sprite:
+    - {fileID: 21300094, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300096, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300098, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+    - {fileID: 21300098, guid: 1b715ed4a6de503409e97ef26049f7f0, type: 3}
+  move: 0
+  moveSpeed: 0
+  star: 0
+  starTime: 0
+  tossGB: {fileID: 7309701999656249938, guid: c8e003e3128b0ca469f973ebf8880773, type: 3}
+  tossCount: 1

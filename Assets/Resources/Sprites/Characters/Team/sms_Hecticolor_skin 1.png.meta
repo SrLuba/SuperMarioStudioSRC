@@ -1,0 +1,1750 @@
+fileFormatVersion: 2
+guid: cc61eda76dee88149bbecdc91c941b15
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 464
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f26a59565a8c34ebf868074173a5a6
+      internalID: -890658457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 464
+        width: 17
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77babb5397e3ce8409f311c5dcc92b0c
+      internalID: 622929375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 464
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477cb1033975a124488d78c332c178c8
+      internalID: 1981211744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 464
+        width: 18
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a21dd4d518b26746b191a8d440f75eb
+      internalID: -1796060590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 464
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b4fcf383ffead468c4d073f9d4ebc4
+      internalID: 1399350139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbb7e4ace939ca4d827b733eb781d3b
+      internalID: 1370977920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 464
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebbc8755c4a1a44480e6188b234e751
+      internalID: 1809081325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 464
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18abf7c8178284944b43f1608f130e6d
+      internalID: -1685997728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 464
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecadff209cc2f6941ad014d8e01ce3e9
+      internalID: 1600569188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 464
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a2e93f268d784fbbea8aa3d23b398
+      internalID: 917105386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 464
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72ec758875fb5a4895c861e92378768
+      internalID: 1976928293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 464
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708e5d2b98e34f0418ef9627c3e40a0f
+      internalID: -1716124653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 464
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7323354195ace14fbc903e6f4cf06c1
+      internalID: 345407851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 464
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39064500adeb6894996dcd930dac2a38
+      internalID: 1229549248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 464
+        width: 18
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf26b115259fa3641b421137010a1ef9
+      internalID: 2028167643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 464
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff15106ef00734a4f83bddb45946f231
+      internalID: 1641732594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 464
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20489948e1872f94793d2e24e669982c
+      internalID: -1334011735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_17
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 464
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f9da7029aa5043b9276d99aed2825
+      internalID: 620566649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 464
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ef17ed935cac48b32bc112de03e46
+      internalID: 159691179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_19
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 464
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fffb94e7d075d4e8746e68afcc4a9d
+      internalID: -582112249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_20
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 464
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036419025ea55004f96e6a3cf853cbe1
+      internalID: 505193145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 432
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f00d8a26ba56a14eb3ab2bf5269af33
+      internalID: -1039056444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 432
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eac771620e4354786a7dab2055e1b5
+      internalID: -1680565458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565f504ae5828b746af4833a11fd0b45
+      internalID: 64572992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db47a1b6b73a8f42b50f81cbccdf807
+      internalID: -1667822745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 432
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974a28be460e92c42b51494b4c00b5d4
+      internalID: -2042942793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1db593f31c29fd42aca51fcf2c072dd
+      internalID: 1273291721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 432
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e961b55b1fa6419f249d1e91f02e7
+      internalID: 1322338776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 432
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5289a996d1386429b184dcfef536aa
+      internalID: 1183884061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 432
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110f8ef8716e63d4b944433934f833e8
+      internalID: -1145412794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 432
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c175d30e35bddc94b8bd7b690e916832
+      internalID: -451466696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_31
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 432
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765f3bc6fe76e2040b5c06f586ecf2e2
+      internalID: -861475828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_32
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 432
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d62be2e78e74c40bce6caed598df00
+      internalID: 1604381413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_33
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 432
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ad3e4dc7d9555488d04aeb27c16088
+      internalID: 390872424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 432
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1995b3d58d1bfa41ad6a55cfd9e5edc
+      internalID: -46728248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 432
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc75ae57c984f824c93632f804fe35cd
+      internalID: 1255932617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_36
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 434
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1696b4cb76918244db329afe87d6af2b
+      internalID: -1903591733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 400
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6425347b0d0ed43874822c4c8b69a6
+      internalID: 608985175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 400
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa97199f5b7cf0a4b91bb5a42f47e498
+      internalID: 2103338370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_39
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 400
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae12bee34c5a3f4f857d17bd2e69946
+      internalID: 2101131368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 400
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8207b088a1d1ca34f873459dfc2ae1a3
+      internalID: -947863698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e915180d6435e4298201e28a1a2947
+      internalID: 92322047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 400
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecaa754edf537646b69512bb2dcfba6
+      internalID: 1530865230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b89ad91b3fc6343bc3b1dcca5763ab
+      internalID: -894939074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 400
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7770fd71ee78a4fbe14c15fead985a
+      internalID: -1071821538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_45
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 400
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe9647bb31f4834a980245a6239d08e
+      internalID: -890713759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_46
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 400
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0980042c36300d84abf30b63c29b8ee8
+      internalID: 609837413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_47
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 400
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf37fa2d886dbb47843d0612c8493b2
+      internalID: -1297989908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 400
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385798e2ce62eaf4ba312d0df2f6c77e
+      internalID: 1328759099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_49
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 400
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b72206c92e8d1a4192fda8d90710e0f
+      internalID: 1805404828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_50
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 400
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931202318cb98364894c6459609ce34a
+      internalID: 1581280027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 400
+        width: 13
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c3a2df7bdbf2744b4920b74aaecd8b
+      internalID: -1124142893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_52
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 400
+        width: 13
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977f8afee2fef814ca93b34d6461ecb8
+      internalID: 724898049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_53
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 400
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8889e5f43395c2c41be56883a01c5f50
+      internalID: -1685796260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 400
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652060ed14e159c4f876aad10a1ef2f0
+      internalID: 1803903564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_55
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 400
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268a6bebc71b53e42a52e2f92d3bd538
+      internalID: 1255969966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_56
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 400
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36312dff6333300468187998edf45b0c
+      internalID: -1265093919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 368
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e3b296f6ecbef4d8a40dd7d650497f
+      internalID: -1787033760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_58
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 368
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9811fdb169fe0044d8f28cc2018dd6ca
+      internalID: -1044540654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_59
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 368
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bf34a1e6d5c2d4bab729e657d86770
+      internalID: -73188387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_60
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 368
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34fcb197e43df7448db376fca9ee99a
+      internalID: 1893077408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 18
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3203fc6a88bed4b800eb386e0bbb08
+      internalID: -35360166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_62
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 385
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d72d821006b99a4891f924cb8ef2a29
+      internalID: 514884557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_63
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdd5fb4c6c6afd4cac9930b060d439a
+      internalID: -1772948627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 387
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d58aca4f6b2b244955d7ac6ebd1f67
+      internalID: -327500975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61913039dc5473a489f7622a0222f2c8
+      internalID: 392025923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc59fd81d293d54bb83510e9f0f263b
+      internalID: 1621869165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 335
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117240387a7e9b8479821cbd1185ce6e
+      internalID: -85556624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_68
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 335
+        width: 6
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c15b079a1bb6a4fa9b5afba21b8e2b
+      internalID: -714522871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_69
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 335
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc44b57fcaa1b0408826b8a9382c762
+      internalID: -945224886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_70
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 335
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd0aea9bd011a4a9a4ff40a30b8444
+      internalID: 603216064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sms_Hecticolor_skin 1_71
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 335
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b91f12eb667346802c2ecc9286c4f
+      internalID: 597978374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sms_Hecticolor_skin 1_0: -890658457
+      sms_Hecticolor_skin 1_1: 622929375
+      sms_Hecticolor_skin 1_10: 1976928293
+      sms_Hecticolor_skin 1_11: -1716124653
+      sms_Hecticolor_skin 1_12: 345407851
+      sms_Hecticolor_skin 1_13: 1229549248
+      sms_Hecticolor_skin 1_14: 2028167643
+      sms_Hecticolor_skin 1_15: 1641732594
+      sms_Hecticolor_skin 1_16: -1334011735
+      sms_Hecticolor_skin 1_17: 620566649
+      sms_Hecticolor_skin 1_18: 159691179
+      sms_Hecticolor_skin 1_19: -582112249
+      sms_Hecticolor_skin 1_2: 1981211744
+      sms_Hecticolor_skin 1_20: 505193145
+      sms_Hecticolor_skin 1_21: -1039056444
+      sms_Hecticolor_skin 1_22: -1680565458
+      sms_Hecticolor_skin 1_23: 64572992
+      sms_Hecticolor_skin 1_24: -1667822745
+      sms_Hecticolor_skin 1_25: -2042942793
+      sms_Hecticolor_skin 1_26: 1273291721
+      sms_Hecticolor_skin 1_27: 1322338776
+      sms_Hecticolor_skin 1_28: 1183884061
+      sms_Hecticolor_skin 1_29: -1145412794
+      sms_Hecticolor_skin 1_3: -1796060590
+      sms_Hecticolor_skin 1_30: -451466696
+      sms_Hecticolor_skin 1_31: -861475828
+      sms_Hecticolor_skin 1_32: 1604381413
+      sms_Hecticolor_skin 1_33: 390872424
+      sms_Hecticolor_skin 1_34: -46728248
+      sms_Hecticolor_skin 1_35: 1255932617
+      sms_Hecticolor_skin 1_36: -1903591733
+      sms_Hecticolor_skin 1_37: 608985175
+      sms_Hecticolor_skin 1_38: 2103338370
+      sms_Hecticolor_skin 1_39: 2101131368
+      sms_Hecticolor_skin 1_4: 1399350139
+      sms_Hecticolor_skin 1_40: -947863698
+      sms_Hecticolor_skin 1_41: 92322047
+      sms_Hecticolor_skin 1_42: 1530865230
+      sms_Hecticolor_skin 1_43: -894939074
+      sms_Hecticolor_skin 1_44: -1071821538
+      sms_Hecticolor_skin 1_45: -890713759
+      sms_Hecticolor_skin 1_46: 609837413
+      sms_Hecticolor_skin 1_47: -1297989908
+      sms_Hecticolor_skin 1_48: 1328759099
+      sms_Hecticolor_skin 1_49: 1805404828
+      sms_Hecticolor_skin 1_5: 1370977920
+      sms_Hecticolor_skin 1_50: 1581280027
+      sms_Hecticolor_skin 1_51: -1124142893
+      sms_Hecticolor_skin 1_52: 724898049
+      sms_Hecticolor_skin 1_53: -1685796260
+      sms_Hecticolor_skin 1_54: 1803903564
+      sms_Hecticolor_skin 1_55: 1255969966
+      sms_Hecticolor_skin 1_56: -1265093919
+      sms_Hecticolor_skin 1_57: -1787033760
+      sms_Hecticolor_skin 1_58: -1044540654
+      sms_Hecticolor_skin 1_59: -73188387
+      sms_Hecticolor_skin 1_6: 1809081325
+      sms_Hecticolor_skin 1_60: 1893077408
+      sms_Hecticolor_skin 1_61: -35360166
+      sms_Hecticolor_skin 1_62: 514884557
+      sms_Hecticolor_skin 1_63: -1772948627
+      sms_Hecticolor_skin 1_64: -327500975
+      sms_Hecticolor_skin 1_65: 392025923
+      sms_Hecticolor_skin 1_66: 1621869165
+      sms_Hecticolor_skin 1_67: -85556624
+      sms_Hecticolor_skin 1_68: -714522871
+      sms_Hecticolor_skin 1_69: -945224886
+      sms_Hecticolor_skin 1_7: -1685997728
+      sms_Hecticolor_skin 1_70: 603216064
+      sms_Hecticolor_skin 1_71: 597978374
+      sms_Hecticolor_skin 1_8: 1600569188
+      sms_Hecticolor_skin 1_9: 917105386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

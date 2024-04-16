@@ -1,0 +1,851 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 394b3286ae4ab344583b3902306a4fe8, type: 3}
+  m_Name: Overworld_B
+  m_EditorClassIdentifier: 
+  targets:
+  - setupAuto: 0
+    parallaxForceFactorX: 0.1
+    parallaxForceFactorY: 0.1
+    origin: {x: 0, y: 0}
+    targets:
+    - sprite: {fileID: -1263677873, guid: 1574cda81de661d43a499ec79c021038, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 0
+      ifPrefab: {fileID: 0}
+      parallaxForce: {x: 0.3, y: 0.3}
+      startPos: {x: 0, y: 150}
+      height: 0
+      tileRepeatCount: 32
+      sepFactor: 4
+      layerID: 9999
+      layer: BG
+      VX: -16
+      VY: 0
+      length: 256
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 628653967, guid: 2ab396da1f067fd4cb2a2a9a97cf561b, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 0
+      ifPrefab: {fileID: 0}
+      parallaxForce: {x: 0.1, y: 0.1}
+      startPos: {x: 0, y: -72}
+      height: 0
+      tileRepeatCount: 32
+      sepFactor: 4
+      layerID: 0
+      layer: BG
+      VX: 0
+      VY: 0
+      length: 55
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+  - setupAuto: 1
+    parallaxForceFactorX: 0.07
+    parallaxForceFactorY: 0.03
+    origin: {x: 0, y: -64}
+    targets:
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 0.4392157}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 72
+      sepFactor: 12
+      layerID: 25
+      layer: BG
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+  - setupAuto: 0
+    parallaxForceFactorX: 0.1
+    parallaxForceFactorY: 0.1
+    origin: {x: 0, y: 0}
+    targets:
+    - sprite: {fileID: -1959978951, guid: 2ab396da1f067fd4cb2a2a9a97cf561b, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 0
+      ifPrefab: {fileID: 0}
+      parallaxForce: {x: 0.1, y: 0.1}
+      startPos: {x: 0, y: -248}
+      height: 0
+      tileRepeatCount: 32
+      sepFactor: 4
+      layerID: 12000
+      layer: BG
+      VX: 0
+      VY: 0
+      length: 512
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+  - setupAuto: 1
+    parallaxForceFactorX: 0.1
+    parallaxForceFactorY: 0.02
+    origin: {x: 0, y: -216}
+    targets:
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}
+    - sprite: {fileID: 682672053, guid: a9ae29c5dd619804cabc08c949773dc5, type: 3}
+      color: {r: 1, g: 1, b: 1, a: 1}
+      automaticSet: 1
+      ifPrefab: {fileID: 3235378668879930076, guid: da015cb51eee1f14caa9a5c09563de11, type: 3}
+      parallaxForce: {x: 0, y: 0}
+      startPos: {x: 0, y: 0}
+      height: 16
+      tileRepeatCount: 128
+      sepFactor: 15
+      layerID: 25
+      layer: Foreground
+      VX: 0.01
+      VY: 0
+      length: 16
+      targetPos: {x: 0, y: 0, z: 0}
+      target: {fileID: 0}

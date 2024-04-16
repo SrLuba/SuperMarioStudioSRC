@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a34fb5a3ab9ac46abe248997aa0300, type: 3}
+  m_Name: ParagoombaR
+  m_EditorClassIdentifier: 
+  type:
+  - B_GOOMBA
+  baseSpeed: 32
+  baseAnimSpeed: 1
+  flags: []
+  PLandAC: {fileID: 8300000, guid: 2834e8e89c4c3714a8b45c4be7498522, type: 3}
+  DieAC: {fileID: 8300000, guid: 2834e8e89c4c3714a8b45c4be7498522, type: 3}
+  ChangeSideAC: {fileID: 8300000, guid: 394c75d7c13a89440b02e6a3f533136c, type: 3}
+  DestroyAC: {fileID: 8300000, guid: 8552da24b65b1444eb47f6fdeef2f3f4, type: 3}
+  hits: 0
+  spawnDeath: {fileID: 4858759730202511600, guid: d0018e8e9a9d9aa4cb0203ab4846a4c4, type: 3}
+  ACNormal: {fileID: 9100000, guid: f45c40e6bedcd1c4cb7bbdf23ecb236f, type: 2}
+  ACRed: {fileID: 9100000, guid: 2dc6311ad19d8024692fe0866661ce1c, type: 2}
+  ACRedWings: {fileID: 9100000, guid: 56ef236b763a8d24c98185f03a5b7842, type: 2}
+  ACWings: {fileID: 9100000, guid: d9c83cf85ffb50040986ed2b2a153175, type: 2}
